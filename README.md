@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on everthing
-- 📫 How to reach me ...
+- 📫 How to reach me E-mail: natedward@hotmail.com
 
 <!---
 natedward/natedward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
